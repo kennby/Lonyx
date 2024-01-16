@@ -74,29 +74,29 @@ global.moment = moment
 
 //------------------------[ Stickers ]-----------------------------
 
-global.packname = '𝙏𝙤𝙢𝙖 𝙩𝙪 𝙨𝙩𝙞𝙘𝙠𝙚𝙧'
-global.author = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.packname = '𝗖𝗢𝗗𝗘𝗫'
+global.author = '𝗖𝗢𝗗𝗘𝗫 𝗕𝗢𝗧'
 
 //------------[ Versión | Nombre | cuentas ]------------
 
-global.wm = '𝙇𝙤𝙡𝙞𝘽𝙤𝙩-𝙈𝘿'
+global.wm = '𝗖𝗢𝗗𝗘𝗫'
 global.vs = '1.5.5'
-global.yt = 'https://www.youtube.com/@elrebelde.21'
-global.tiktok = 'tiktok.com/@elrebelde21'
-global.md = 'https://github.com/elrebelde21/LoliBot-MD'
-global.fb = 'https://www.facebook.com/elrebelde21'
-global.face = 'https://www.facebook.com/groups/872989990425789/'
+global.yt = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
+global.tiktok = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
+global.md = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
+global.fb = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
+global.face = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
 
-global.nna = 'https://whatsapp.com/channel/0029Va4QjH7DeON0ePwzjS1A' //Update
-global.nn = 'https://chat.whatsapp.com/C6sxsP2ckrr2vxMKclOeCD' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/H4hxytyGvucIF1k0UAR7es' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IlyJBy1fxcw2qAHLSC5YLa' //Grupo del Colaboracion
-global.nnnt2 = 'https://chat.whatsapp.com/K7RzcVdxGqhGP5dCpVENSI' // Grupo COL 2
-global.nnntt = 'https://chat.whatsapp.com/IB9Vs7mZ03BBkH3reCU8Dw' //Grupo COL 3
-global.nnnttt = 'https://chat.whatsapp.com/KlqNmoUcVnsGJxIfATIDrK' //enlace lolibot
-global.nnntttt = 'https://chat.whatsapp.com/FRkr7jJHSJA5OjVtE64dDs' //Grupo ayuda sobre el bot
-global.bot = 'Wa.me/59178862672'
-global.asistencia = 'wa.me/5492266466080'
+global.nna = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Update
+global.nn = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Grupo 1
+global.nnn = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Grupo 2
+global.nnnt = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Grupo del Colaboracion
+global.nnnt2 = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' // Grupo COL 2
+global.nnntt = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Grupo COL 3
+global.nnnttt = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //enlace lolibot
+global.nnntttt = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z' //Grupo ayuda sobre el bot
+global.bot = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
+global.asistencia = 'https://whatsapp.com/channel/0029VaFgPI53WHTcT0I6480Z'
 global.redes = [nna, nn, nnn, nnnt, nnnt2, nnntt, nnnttt, yt, md, tiktok]
 
 //-------------------------[ IMAGEN ]------------------------------
