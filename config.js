@@ -117,19 +117,19 @@ global.waitt = '*⌛ _Cargando..._ ▬▬▭▭▭*'
 global.waittt = '*⌛ _Cargando..._ ▬▬▬▬▭▭*'
 global.waitttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▭*'
 global.waittttt = '*⌛ _Cargando..._ ▬▬▬▬▬▬▬*'
-global.rg = '『✅ 𝙍𝙀𝙎𝙐𝙇𝙏𝘼𝘿𝙊𝙎 ✅』\n\n'
+global.rg = '『𝗥𝗘𝗦𝗨𝗟𝗧𝗔𝗗𝗢』\n\n'
 global.resultado = rg
-global.ag = '『⚠️ 𝘼𝘿𝙑𝙀𝙍𝙏𝙀𝙉𝘾𝙄𝘼 ⚠️』\n\n'
+global.ag = '『𝗔𝗗𝗩𝗘𝗥𝗧𝗘𝗡𝗖𝗜𝗔』\n\n'
 global.advertencia = ag
-global.iig = '『❕ 𝙄𝙉𝙁𝙊𝙍𝙈𝘼𝘾𝙄𝙊𝙉 』\n\n'
+global.iig = '『𝗜𝗡𝗙𝗢』\n\n'
 global.informacion = iig
-global.fg = '『❌ 𝙀𝙍𝙍𝙊𝙍 ❌』\n\n'
+global.fg = '『𝗠𝗔𝗟𝗘𝗥𝗥𝗢𝗥』\n\n'
 global.fallo = fg
-global.mg = '『❗️ 𝙇𝙊 𝙐𝙎𝙊 𝙈𝘼𝙇❗』\n\n'
+global.mg = '『𝗠𝗔𝗟 𝗨𝗦𝗢 𝗩:』\n\n'
 global.mal = mg
-global.eeg = '『📩 𝙍𝙀𝙋𝙊𝙍𝙏𝙀 📩』\n\n'
+global.eeg = '『𝗥𝗘𝗣𝗢𝗥𝗧』\n\n'
 global.envio = eeg
-global.eg = '『💚 𝙀𝙓𝙄𝙏𝙊𝙎 💚』\n\n'
+global.eg = '『𝗕𝗜𝗘𝗡』\n\n'
 global.exito = eg
 
 //----------------------------[ NIVELES | RPG ]---------------------------------
